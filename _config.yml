@@ -1,7 +1,7 @@
 # Site Information
 description: "Ricky's Dev Blog. Themes by ahonn/hello"
 keywords: "Ricky Kurniawan, Developer, Blog, Web development"
-favicon: images/site_logo_static.svg
+favicon: "/images/site_logo_static.svg"
 rss: /atom.xml
 
 # Site Menu
@@ -36,4 +36,4 @@ verification:
   google: 0-0
 
 comment:
-  disqus: rickykurniawanlie
+  disqus: rickykurniawanlie-github-io
