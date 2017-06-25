@@ -1,0 +1,17 @@
+menu:
+  home: Home
+  archives: Archives
+  about: About
+
+readmore: readmore
+
+article:
+  next: next
+  prev: prev
+
+widget:
+  recent_post: Recent Posts
+  tagcloud: Tag Cloud
+  categories: Categories
+  archives: Archives
+  links: Links
